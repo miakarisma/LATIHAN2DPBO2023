@@ -11,3 +11,5 @@ Sivitas Akademik merupakan masyarakat akademik yang terdiri atas dosen dan mahas
 Kelas Mahasiswa merupakan kelas turunan dari kelas Sivitas Akademik, karena mahasiswa merupakan bagian dari sivitas akademik dan kelas cucu dari kelas manusia karena mahasiswa merupakan manusia. Kelas mahasiswa mewarisi semua atribut pada kelas Sivitas akademik dan kelas manusia.
 
 Terdapat juga kelas Tabel yang berdiri sendiri atau tidak mewarisi kelas apapun karena berbeda objek dengan objek lainnya serta tidak mewarisi atribut pada kelas lain. Objek tersebut digunakan untuk menampilkan tabel dari list daftar Mahasiswa.
+
+![Latprak2 drawio](https://user-images.githubusercontent.com/100817609/220223322-744fcc0c-1e3c-4d21-9bd9-ee4d8cb25be2.png)
