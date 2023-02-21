@@ -1,7 +1,10 @@
-# LATIHAN2DPBO2023
-Sekumpulan file yang berisi kode program dari bahasa C++, Java, Python dan PHP untu matakuliah DPBO
+# Janji
+Saya Mia Karisma Haq NIM [2102165] mengerjakan soal Latihan Praktikum-2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
 
-Penjelasan Desain Program :
+# Deskripsi Program
+Program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance  pada kelas Mahasiswa, Human, Sivitas Akademik.
+
+# Penjelasan Desain Program :
 Terdapat kesamaan dari objek mahasiswa dan sivitas akademik, yaitu sama-sama manusia. Sehingga kedua kedua kelas tersebut merupakan turunan dari kelas Manusia.
 
 Kelas Manusia merupakan kelas induk (superclass) dari kelas sivitas akademik (subclass) dan buyut dari kelas mahasiswa. Selain itu semua atribut pada kelas manusia diwarisi oleh kelas sivitas akademik dan kelas mahasiswa.
