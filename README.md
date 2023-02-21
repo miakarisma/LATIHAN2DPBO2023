@@ -1,4 +1,4 @@
-# LATIHAN 2 DPBO 2023 
+# LATIHAN2DPBO2023 
 ## Janji
 Saya Mia Karisma Haq NIM [2102165] mengerjakan soal Latihan Praktikum-2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
 
